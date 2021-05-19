@@ -1,0 +1,9 @@
+{
+  "name": "gridsome-plugin-yandex-turbo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "turbo-rss": "^1.2.1"
+  }
+}
